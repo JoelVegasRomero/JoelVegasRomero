@@ -3,6 +3,8 @@
 
 <h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=A+Student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93+and+a+Programming+Enthusiast+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+from+Spain"></h3>
 
+**Tengo 20 años**, soy un chico al cual ***le apasiona el Desarrollo Web***. Me fijo muchísimo en *"los pequeños detalles, ya que eso es lo que marca la diferencia entre un buen código y uno malo"*. Actualmente estoy enfocado en el sector del **Desarrollo Backend**, y para poder seguir creciendo como desarrollador, estoy estudiando un **Grado Superior de Desarrollo Web (DAW)** en la escuela de *FPllefia*.
+
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 ### <h3> 👨🏻‍💻 &nbsp;About Me </h3>
