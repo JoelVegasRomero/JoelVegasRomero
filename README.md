@@ -45,9 +45,3 @@
   </div>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MR-Addict&theme=vue" alt="profile detail" />
 </div>
-
-
-
-<a href="https://github.com/vibrantfix#gh-dark-mode-only">
-  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
-</a>
