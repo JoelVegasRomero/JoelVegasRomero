@@ -43,5 +43,5 @@
       src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoelVegasRomero&theme=vue"
     />
   </div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MR-Addict&theme=vue" alt="profile detail" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoelVegasRomero&theme=vue" alt="profile detail" />
 </div>
