@@ -14,7 +14,7 @@
 <!--Languages and Tools Section-->       
 <h3 align="left">🛠 Languages and Tools: </h3>
 <p align="left">
-<img width="300px"  src="https://skillicons.dev/icons?i=py,cpp,java,html,css,php,postgres,vscode,bash,linux&perline=5" />
+<img width="300px"  src="https://skillicons.dev/icons?i=py,cpp,java,html,css,php,mysql,bash,vscode,visualstudio,eclipse,linux&perline=4" />
 </p>
 <br />
  
